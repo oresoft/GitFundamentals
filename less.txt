@@ -1,4 +1,4 @@
-branch abc modification in branch abc
+branch abc modification in master
 /*! 
  * LESS - Leaner CSS v1.5.0-b4 
  * http://lesscss.org 
